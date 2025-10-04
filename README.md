@@ -12,7 +12,7 @@
 * 指紋の照合機能
 * 6軸加速度センサーのデータ取得（振動、加速度）
 * 指紋認証成功時にサーボモーターを特定角度に動かす制御
-* 認証の結果に応じて、反応を音声やサーボモーターの動きによって出力する
+* 認証の結果に応じて、反応を音声やサーボモーターの動きを出力
 
 ---
 
@@ -24,7 +24,7 @@
 * **センサー:**
     * [UART Fingerprint Sensor (F)](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F))
     * 6軸加速度センサー  MPU-6050
-    * サーボモーター SG90
+    * サーボモーター Tower Pro SG90
 * **その他:**
     * ブレッドボード
     * ジャンパーワイヤー
@@ -38,14 +38,14 @@
     * `Servo` (標準ライブラリ)
     * `Wire` (標準ライブラリ)
     * `SoftwareSerial` (標準ライブラリ)
-    * `DFPlayer_Mini_Mp3` 
+    * `DFPlayer_Mini_Mp3` (https://github.com/DFRobot/DFPlayer-Mini-mp3)
 ---
 
 ## 参考・謝辞 (Credits)
 
 このプロジェクトの指紋認証センサーのコードの一部は、Waveshareの提供する以下のデモコードを参考にしています。
 
-* **UART Fingerprint Sensor (F) Wiki:** [https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F))
+* **UART Fingerprint Sensor (F) Wiki:** [https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)]([https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)#Demo_3))
 
 ---
 
