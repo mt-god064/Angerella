@@ -22,7 +22,7 @@
 
 * **メインボード:** Arduino UNO R4 WiFi
 * **センサー:**
-    * [UART Fingerprint Sensor (F)](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F))
+    * 指紋認証センサー [UART Fingerprint Sensor (F)](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F))
     * 6軸加速度センサー  MPU-6050
     * サーボモーター Tower Pro SG90
 * **その他:**
