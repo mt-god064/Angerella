@@ -45,7 +45,7 @@
 
 このプロジェクトの指紋認証センサーのコードの一部は、Waveshareの提供する以下のデモコードを参考にしています。
 
-* **UART Fingerprint Sensor (F) Wiki:** [https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)]([https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)#Demo_3))
+* **UART Fingerprint Sensor (F) Wiki:** [https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)]([https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)#Demo_3](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)#Demo_3))
 
 ---
 
