@@ -46,6 +46,7 @@
 このプロジェクトの指紋認証センサーのコードの一部は、Waveshareの提供する以下のデモコードを参考にしています。
 
 **UART Fingerprint Sensor (F) Wiki:** [https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)]([https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)](https://www.waveshare.com/wiki/UART_Fingerprint_Sensor_(F)))
+(Resources->Demo)
 
 また、このプロジェクトは DFPlayer Mini MP3 ライブラリ (LGPL v3) を使用しています。
 
